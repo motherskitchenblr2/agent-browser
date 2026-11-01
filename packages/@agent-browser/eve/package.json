@@ -56,7 +56,7 @@
   },
   "dependencies": {
     "@agent-browser/sandbox": "workspace:^",
-    "zod": "4.4.3"
+    "zod": "4.6.6"
   },
   "peerDependencies": {
     "eve": ">=0.57.0"
